@@ -11,5 +11,12 @@ This repository contains Python scripts specifically crafted for common DevOps u
 ### ✅ Prerequisites
 
 - Python 3.7+
-- Recommended: Use a virtual environment
-- 
+- Operating System: Linux, macOS, or Windows
+- Required Python packages listed in [`requirements.txt`](./requirements.txt)
+
+### 🛠️ Installation
+
+```bash
+git clone https://github.com/raghavareddykalli/python-scripts-for-devops.git
+cd python-scripts-for-devops
+pip install -r requirements.txt
