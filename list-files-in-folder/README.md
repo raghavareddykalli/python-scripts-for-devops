@@ -43,10 +43,10 @@ def list_of_files_in_folder(folder_list):
 - If the folder doesn’t exist, it returns None and an error message.
 - If you don’t have permission to access the folder, it returns None and a different error message.
 
-  ```bash
-  if __name__ == "__main__":
-    main()
-  ```
+```bash
+if __name__ == "__main__":
+main()
+```
 
 - This checks if the script is being run directly (not imported).
 - If so, it calls the main() function to start the program.
