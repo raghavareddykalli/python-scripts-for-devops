@@ -5,3 +5,11 @@ A curated collection of Python scripts for DevOps engineers — simplifying clou
 ## 📌 About
 
 This repository contains Python scripts specifically crafted for common DevOps use cases. Whether you're automating infrastructure, parsing logs, interacting with APIs, or enhancing your CI/CD pipelines, this repo is meant to save time and improve consistency.
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+- Python 3.7+
+- Recommended: Use a virtual environment
+- 
