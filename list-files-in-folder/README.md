@@ -1,3 +1,4 @@
+### Python Script which takes folder names from the user input, lists the files in each folder, and handles errors if a folder doesn’t exist or you don’t have permission.
 
 Below is the step-by-step explanation of the code: 
 
